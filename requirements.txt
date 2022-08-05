@@ -1,0 +1,7 @@
+PIL
+numpy
+pandas
+keras
+tensorflow==2.2
+opencv-python
+keras_applications
